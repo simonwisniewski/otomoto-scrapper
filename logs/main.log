@@ -1,0 +1,16 @@
+# Logfile created on 2024-07-23 07:42:46 +0000 by logger.rb/v1.6.0
+E, [2024-07-23T07:43:24.134150 #363] ERROR -- : Invalid input. Please choose a number from 1 to 5.
+E, [2024-07-23T07:43:34.734315 #366] ERROR -- : Invalid input. Please choose a number from 1 to 5.
+E, [2024-07-23T07:43:38.239388 #369] ERROR -- : Invalid input. Please provide a positive number that is less than 5.
+E, [2024-07-23T07:44:38.374740 #372] ERROR -- : Invalid input [c]. Please choose a number from 1 to 5.
+E, [2024-07-23T07:44:46.105657 #375] ERROR -- : Invalid input [e]. Please provide a positive number that is less than 5.
+E, [2024-07-23T07:45:06.832981 #378] ERROR -- : Invalid input [7]. Please choose a number from 1 to 5.
+E, [2024-07-23T07:45:15.917760 #381] ERROR -- : Invalid input [9]. Please provide a positive number that is less than 5.E, [2024-07-23T09:14:51.727692 #1137] ERROR -- : Error while scraping: undefined method `[]' for an instance of Product
+E, [2024-07-23T09:16:31.782840 #1143] ERROR -- : Error while scraping: no implicit conversion of String into Integer
+E, [2024-07-23T09:16:52.214263 #1149] ERROR -- : Error while scraping: undefined method `[]' for an instance of Product
+E, [2024-07-23T09:19:11.000908 #1155] ERROR -- : Error while scraping: undefined method `split' for an instance of Product
+E, [2024-07-23T09:25:05.248035 #1287] ERROR -- : Error while scraping: undefined method `name' for an instance of Product
+E, [2024-07-23T09:25:59.270375 #1293] ERROR -- : Error while scraping: wrong number of arguments (given 1, expected 2)
+E, [2024-07-23T10:05:49.594919 #1513] ERROR -- : Invalid input [c]. Please choose a number from 1 to 5.
+E, [2024-07-23T10:05:52.254499 #1516] ERROR -- : Invalid input [g]. Please choose a number from 1 to 5.
+E, [2024-07-23T10:05:55.759307 #1519] ERROR -- : Invalid input [b]. Please provide a positive number that is less than 5.

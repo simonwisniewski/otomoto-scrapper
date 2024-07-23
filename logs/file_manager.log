@@ -1,0 +1,54 @@
+# Logfile created on 2024-07-23 08:07:43 +0000 by logger.rb/v1.6.0
+I, [2024-07-23T08:07:48.931329 #483]  INFO -- : Successfully wrote to file: products.html
+I, [2024-07-23T08:07:54.692321 #483]  INFO -- : Successfully wrote to file: products.pdf
+E, [2024-07-23T08:37:50.559704 #589] ERROR -- : Failed to write to file: ../reports/products.html. Error: No such file or directory @ rb_sysopen - ../reports/products.html
+E, [2024-07-23T08:39:01.651416 #595] ERROR -- : Failed to write to file: ../reports/products.html. Error: No such file or directory @ rb_sysopen - ../reports/products.html
+E, [2024-07-23T08:40:20.292827 #602] ERROR -- : Failed to write to file: ./reports/products.html. Error: No such file or directory @ rb_sysopen - ./reports/products.html
+I, [2024-07-23T08:40:45.244949 #609]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T08:40:50.501521 #609]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T08:50:29.913141 #655]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T08:50:34.939943 #655]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T08:53:13.107012 #676]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T08:53:17.600854 #676]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:04:58.861967 #972]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:05:05.784772 #972]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:07:38.061893 #990]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:07:48.097918 #990]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:08:26.246356 #1007]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:08:41.360298 #1007]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:10:00.747575 #1025]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:10:05.702669 #1025]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:10:37.052807 #1043]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:10:42.303561 #1043]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:11:04.332385 #1061]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:11:08.776173 #1061]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:12:01.375469 #1079]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:12:06.966641 #1079]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:12:27.518624 #1097]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:12:33.434624 #1097]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:13:07.572466 #1115]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:13:12.465170 #1115]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:19:32.375941 #1161]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:19:36.445018 #1161]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:21:10.229903 #1179]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:21:15.286864 #1179]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:21:28.284181 #1197]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:21:32.713868 #1197]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:21:51.753614 #1215]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:21:56.362792 #1215]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:22:04.877053 #1233]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:22:09.060428 #1233]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:22:17.147193 #1251]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:22:19.435767 #1251]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:22:27.824046 #1269]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:22:33.578395 #1269]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:25:53.469390 #1293]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:25:59.268790 #1293]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:26:28.340636 #1311]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:26:33.673464 #1311]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:26:52.849528 #1329]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:26:57.197424 #1329]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T09:27:07.909946 #1347]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T09:27:11.836982 #1347]  INFO -- : Successfully wrote to file: ./reports/products.pdf
+I, [2024-07-23T10:04:58.212747 #1495]  INFO -- : Successfully wrote to file: ./reports/products.html
+I, [2024-07-23T10:05:02.895785 #1495]  INFO -- : Successfully wrote to file: ./reports/products.pdf

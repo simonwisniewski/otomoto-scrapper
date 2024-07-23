@@ -5,7 +5,7 @@ The Otomoto Scrapper is a Ruby-based application designed to extract vehicle lis
 ## Features
 
 - **Data Extraction**: Collects detailed information on vehicle listings, including make, model, year, price, and more.
-- **Data Export**: Supports exporting the collected data into CSV and PDF format.
+- **Data Export**: Supports exporting the collected data into CSV and PDF format.All exported files are saved in the directory named `reports`
 
 ## Getting Started
 
